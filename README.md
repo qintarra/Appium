@@ -9,4 +9,4 @@
 - Create a test for Gmail (web or native)  
 
 Video of working test can be found here: https://drive.google.com/file/d/1zGG725PK_JMXgIgLuvHiPZnbDocAak9o/view?usp=sharing  
-![Test screen](/Appium/blob/main/test_screenshot.jpg "test")
+![Test screen](/Appium/test_screenshot.jpg "test")
