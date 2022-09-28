@@ -18,7 +18,7 @@ namespace appium_email_test
         {
             var driverOption = new AppiumOptions();
             driverOption.AddAdditionalCapability(MobileCapabilityType.PlatformName, "Android");
-            driverOption.AddAdditionalCapability(MobileCapabilityType.DeviceName, "Pixel_3a_API_33_x86_64");
+            driverOption.AddAdditionalCapability(MobileCapabilityType.DeviceName, "Pixel_3a_API_33_x86_64"); //your device name
             driverOption.AddAdditionalCapability(MobileCapabilityType.AutomationName, "UiAutomator2");
 
             _driver = new AndroidDriver<AndroidElement>(new Uri(appium), driverOption);
@@ -44,7 +44,7 @@ namespace appium_email_test
             _driver.FindElementById("com.google.android.gm:id/action_done").Click();
             _driver.FindElementByAccessibilityId("Close").Click();
             _driver.FindElementById("com.google.android.gm:id/compose_button").Click();         
-            _driver.FindElementByXPath("//android.widget.EditText[@text=\"\"]\r\n").SendKeys("testmail4444@gmail.com");
+            _driver.FindElementByXPath("//android.widget.EditText[@text=\"\"]\r\n").SendKeys("CHANGE_ME@gmail.com"); // email of the recipient
             _driver.FindElementById("com.google.android.gm:id/peoplekit_listview_flattened_row").Click();
             _driver.FindElementById("com.google.android.gm:id/subject").SendKeys("appium_hw");
             _driver.HideKeyboard();
