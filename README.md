@@ -1,4 +1,4 @@
-# Appium + Android Studio
+# Appium
 
 ### Task
 
