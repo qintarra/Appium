@@ -16,4 +16,4 @@ Tools used:
 
 Video of working test can be found here: https://drive.google.com/file/d/1zGG725PK_JMXgIgLuvHiPZnbDocAak9o/view?usp=sharing  
  
-![Test_Screenshot](/test_screenshot.jpg "test")
+![Test_Screenshot](/Appium/test_screenshot.jpg "test")
