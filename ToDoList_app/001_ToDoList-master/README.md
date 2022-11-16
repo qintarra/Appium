@@ -18,4 +18,11 @@ You can collaborate with the development of this and next applications by making
 Free open source software subject to the **GNU General Public License v3.0** or later (GPL-3.0-or-later, See [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.txt)), distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY. Copyleft 2019 - All Wrongs Reserved.
 
 
+## Screenshots
+
+![Info ToDoList](/screenshots/Screenshot_1570974024.png)
+
+![tasks](/screenshots/Screenshot_1570974301.png)
+
+![lists](/screenshots/Screenshot_1570974333.png)
 
