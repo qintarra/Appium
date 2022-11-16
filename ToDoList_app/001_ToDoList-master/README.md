@@ -20,9 +20,9 @@ Free open source software subject to the **GNU General Public License v3.0** or 
 
 ## Screenshots
 
-![Info ToDoList](/screenshots/Screenshot_1570974024.png)
+![Info ToDoList](/001_ToDoList-master/screenshots/Screenshot_1570974024.png)
 
-![tasks](/screenshots/Screenshot_1570974301.png)
+![tasks](/001_ToDoList-master/screenshots/Screenshot_1570974301.png)
 
-![lists](/screenshots/Screenshot_1570974333.png)
+![lists](/001_ToDoList-master/screenshots/Screenshot_1570974333.png)
 
