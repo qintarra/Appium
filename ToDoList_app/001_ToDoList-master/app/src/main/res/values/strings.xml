@@ -1,0 +1,67 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
+    <string name="app_name">To Do List</string>
+    <string name="info">Info</string>
+    <string name="about">About</string>
+    <string name="new_list">New List</string>
+    <string name="add_new_list">Add New List</string>
+    <string name="name_list">Name list</string>
+    <string name="remove_all_lists">Remove all</string>
+    <string name="sort_a_z">A to Z</string>
+    <string name="sort_done">By not done</string>
+    <string name="name">Name</string>
+    <string name="new_item">New task</string>
+    <string name="marcar_all">Mark all</string>
+    <string name="desmarcar_all">Uncheck all</string>
+    <string name="limpiar_lista">Clear list</string>
+    <string name="limpiar_lista_msg">Remove all tasks in this list?</string>
+    <string name="delete_listas">Delete all</string>
+    <string name="delete_listas_msg">Remove all lists and their tasks?</string>
+    <string name="renombrar_lista">Rename the List</string>
+    <string name="menu">Menu</string>
+    <string name="close">Close</string>
+    <string name="list_delete">The %1$s list has been removed</string>
+    <string name="item_delete">The %1$s task has been removed</string>
+    <string name="list_duplicate">The %1$s list already exists</string>
+    <string name="item_duplicate">The %1$s task already exists</string>
+    <string name="undo">UNDO</string>
+    <string name="info_text">
+        <![CDATA[
+        <div>
+            <p><b>To Do List</b> is a simple application for quick management of to-do lists.</p>
+            <p>The application allows you to sort the lists by different criteria: by pending tasks, by alphabetical order and by personal preference.</p>
+            <p>Different icons indicate if all the tasks in a list have been completed.</p>
+            <p>Gestures for quick actions:</p>
+            <ul>
+                <li>Drag a list or task to the right to delete it.</li>
+                <li>Press and hold a list until it changes color and drag it up or down to change its position (pending tasks always appear before the tasks done; you can only drag pending tasks).</li>
+            </ul>
+        </div>
+        ]]>
+    </string>
+    <string name="about_text">
+        <![CDATA[
+        <div>
+            <h2>Todo List</h2>
+            <p>Version 1.1</p>
+            <h2>Security and privacy</h2>
+            <p><i>To Do List</i> does not connect to the network and the data is saved only on your device.</p>
+            <p>This application does not require any permission and waives advertising and tracking mechanisms.</p>
+            <h2>License</h2>
+            <p>Free open source software (source code in <a href="https://github.com/Webierta/ToDoList">Github</a>) subject to the GNU General Public License v.3, distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY.</p>
+            <div>Icons made by <a href="https://www.flaticon.com/authors/smashicons">Smashicons</a> and by <a href="https://www.flaticon.com/authors/pixel-perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+           <h2>Author</h2>
+            <p>Copyleft 2019 - Jesús Cuerda (Webierta) - All Wrongs Reserved.</p>
+            <div>App developed by and for the <a href="https://kotlindoc.blogspot.com">Kotlin Doc</a> blog about programming with Kotlin and Android.</div>
+            <p>You can collaborate with the development of this and next applications by making a small contribution in
+                <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=986PSAHLH6N4L">PayPal</a>.</p>
+        </div>
+        ]]>
+    </string>
+    <string name="about_img">Image on About activity</string>
+    <string name="info_img">Image on Info activity</string>
+    <string name="ok_new_item_img">Add task image</string>
+    <string name="img_logo">Logo image</string>
+    <string name="img_item">Image task status</string>
+    <string name="img_list">Image list status</string>
+    <string name="ordenar">Sort</string>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/newList"
+        android:icon="@drawable/ic_playlist_add_black_24dp"
+        android:title="@string/new_list" />
+
+    <item
+        android:id="@+id/ordenar"
+        android:title="@string/ordenar">
+        <menu>
+
+            <item
+                android:id="@+id/sortDone"
+                android:icon="@drawable/ic_playlist_add_check_black_24dp"
+                android:title="@string/sort_done" />
+
+            <item
+                android:id="@+id/sortAToZ"
+                android:icon="@drawable/ic_sort_by_alpha_black_24dp"
+                android:title="@string/sort_a_z" />
+
+        </menu>
+    </item>
+
+    <group android:id="@+id/grp3">
+        <item
+            android:id="@+id/removeAllList"
+            android:icon="@drawable/ic_delete_forever_black_24dp"
+            android:title="@string/remove_all_lists" />
+    </group>
+
+</menu>
