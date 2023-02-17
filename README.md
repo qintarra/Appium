@@ -1,10 +1,19 @@
-# Android Studio
+# Appium
 
-### Appium
+### Task
 
-An automation framework for Gmail.
+- Setup Android SDK
+- Configure system variables
+- Download an Android emulator or configure your own mobile
+- Connect to device/emulator via *uiautomatorviewer*
+- Create a test for Gmail (web or native)  
 
-### ToDoList
+Tools used:
+- Android Studio Dolphin | 2021.3.1
+- Appium Server GUI v1.22.3-4
+- Appium Inspector 2022.8.1
+- Visual Studio 2022 Version 17.3.5
 
-Building an APK file on an emulator and real device.  
-Creating checklists for mobile app.  
+Video of working test can be found here: https://drive.google.com/file/d/1zGG725PK_JMXgIgLuvHiPZnbDocAak9o/view?usp=sharing  
+ 
+![Test_Screenshot](/Appium/test_screenshot.jpg "test")
