@@ -14,6 +14,6 @@ Tools used:
 - Appium Inspector 2022.8.1
 - Visual Studio 2022 Version 17.3.5
 
-Video of working test can be found here: https://drive.google.com/file/d/1zGG725PK_JMXgIgLuvHiPZnbDocAak9o/view?usp=sharing  
+Video of working test can be found here: [google drive](https://drive.google.com/file/d/1zGG725PK_JMXgIgLuvHiPZnbDocAak9o/)  
  
-![Test_Screenshot](/Appium/test_screenshot.jpg "test")
+![Test_Screenshot](/test_screenshot.jpg "test")
