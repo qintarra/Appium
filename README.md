@@ -1,5 +1,7 @@
 # Appium
 
+Automated email sending via Appium and Android Studio.  
+
 ### Task
 
 - Setup Android SDK
